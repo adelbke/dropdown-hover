@@ -1,0 +1,17 @@
+{
+  "name": "dropdown-hover",
+  "version": "0.0.1",
+  "description": "Bootstrap's compatible display on hover for dropdown menus",
+  "main": "index.js",
+  "sass": "dropdown-hover.scss",
+  "dependencies": {
+    "node-sass": "^4.13.0",
+    "jquery": "^3.4.1"
+  },
+  "scripts": {
+    "scss": "node-sass --watch scss -o css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bouhraoua Kamel Eddine Adel <adelbouhraoua23@gmail.com>",
+  "license": "UNLICENSED"
+}
