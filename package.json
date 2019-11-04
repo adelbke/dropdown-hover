@@ -1,9 +1,11 @@
 {
   "name": "dropdown-hover",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bootstrap's compatible display on hover for dropdown menus",
   "main": "index.js",
   "sass": "dropdown-hover.scss",
+  "keywords": ["Bootstrap","dropdown","hover","dropdown-menu","onhover"],
+  "repository": {"url": "https://github.com/Quickinline/dropdown-hover"},
   "dependencies": {
     "node-sass": "^4.13.0",
     "jquery": "^3.4.1"
